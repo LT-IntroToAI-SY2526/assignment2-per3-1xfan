@@ -1,6 +1,5 @@
 from typing import List
 
-
 def match(pattern: List[str], source: List[str]) -> List[str]:
     """Attempts to match the pattern to the source.
 
