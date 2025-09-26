@@ -22,12 +22,12 @@ Remember: This assignment builds the foundation for our movie chatbot - focus on
 | Criteria | Points Possible | Points Earned | Comments |
 |----------|----------------|---------------|----------|
 | **Programming Implementation** | | | |
-| Match Function Logic | 4 | | |
-| Test Cases Passing | 3 | | |
+| Match Function Logic | 4 | 0 | |
+| Test Cases Passing | 3 | 0 | |
 | **Reflection & Understanding** | | | |
-| Programming Challenge Reflection | 1.5 | | |
-| Application Understanding | 1.5 | | |
-| **TOTAL** | **10** | | |
+| Programming Challenge Reflection | 1.5 | 0 | |
+| Application Understanding | 1.5 | 0 | |
+| **TOTAL** | **10** | 0 | Nothing has been pushed to github |
 
 ---
 
