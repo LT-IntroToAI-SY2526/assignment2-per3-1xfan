@@ -12,8 +12,8 @@ This assignment is about learning and applying the while loop and iterating thro
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
 
-
+The most difficult part for me while completing the match function was the syntax for #2, when we handled what happens when we have a % in the pattern. I had a hard time understanding the syntax we used for this case.
 
 2. Explain how you could use the match function for extracting information from a movie database.
 
-
+I could use the match function for extracting information from a movie database by using it to match user queries with specific patterns that correspond to movie attributes. For example, if a user asks "Who directed Inception?", the match function could identify the pattern "Who directed _" and extract "Inception" as the movie title. This would allow the chatbot to retrieve the director's name from the database. Similarly, for a query like "What is the genre of The Dark Knight?", the function could match "What is the genre of _" and extract "The Dark Knight" to find its genre in the database.
